@@ -1,4 +1,4 @@
 theme: jekyll-theme-slate
 title: Kimer Med
 github:
-  is_project_page: false
+is\_project\_page: false
